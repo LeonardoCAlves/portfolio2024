@@ -1,10 +1,9 @@
 import React from 'react'
+import * as s from './style'
 
 const Home = () => {
   return (
-    <div>
-      Página inicial
-    </div>
+    <s.Container>Página Inicial</s.Container>
   )
 }
 

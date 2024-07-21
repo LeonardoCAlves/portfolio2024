@@ -1,6 +1,6 @@
-import { styled } from 'styled-components'
+import styled  from 'styled-components'
 
-export const Container = styled `
-
+export const Container = styled.div `
+    font-size:50px;
 
 `

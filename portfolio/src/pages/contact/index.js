@@ -3,9 +3,9 @@ import * as s from './style'
 
 const Contact = () => {
   return (
-    <div>
+    <s.Container>
       Contato
-    </div>
+    </s.Container>
   )
 }
 
